@@ -1,0 +1,11 @@
+datum,starttijd,eindtijd,klascode,programma,lokaalcode,activiteit,verwacht_aantal
+2024-10-07,08:30,10:30,MLG301,AI & Data Engineer 3,B1.015,Course,45
+2024-10-08,10:30,12:30,SWT201,Toegepaste Informatica 2,B2.022,Practical,30
+2024-10-09,13:00,15:00,DAB401,AI & Data Engineer 4,B1.030,Course,38
+2024-10-10,08:30,10:30,WEB302,Toegepaste Informatica 3,B3.010,Course,52
+2024-10-14,09:00,11:00,MLG301,AI & Data Engineer 3,B1.015,Course,45
+2024-11-04,08:30,10:30,DAB401,AI & Data Engineer 4,B2.018,Course,38
+2024-11-05,13:00,15:00,SWT201,Toegepaste Informatica 2,B1.030,Practical,30
+2024-11-18,10:30,12:30,WEB302,Toegepaste Informatica 3,B2.022,Course,52
+2024-12-02,08:30,10:30,MLG301,AI & Data Engineer 3,B1.015,Course,45
+2024-12-16,13:00,15:00,DAB401,AI & Data Engineer 4,B3.010,Course,38
